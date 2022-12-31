@@ -1,6 +1,7 @@
 # Network Science Course
 
 Instructor: Ahmet Ay (aay@colgate.edu)
+
 Teaching Assistant: Thanh Dang (thdang@colgate.edu)
 
 ## Course Description:
