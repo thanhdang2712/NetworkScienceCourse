@@ -4,13 +4,6 @@ Instructor: Ahmet Ay (aay@colgate.edu)
 
 Teaching Assistant: Thanh Dang (thdang@colgate.edu)
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
 ## Course Description:
 These are materials for an undergraduate course on Network Science, titled "CORE195S: Networks: Friends, Terrorists, and Epidemics", developed for first and second year students of the bachelor degree at Colgate University. The interdisciplinary course provides a broad overview of network, science-addressing the computational techniques of networkscience as well as their applications and implications in biology, sociology, technology, and other fields.
 
